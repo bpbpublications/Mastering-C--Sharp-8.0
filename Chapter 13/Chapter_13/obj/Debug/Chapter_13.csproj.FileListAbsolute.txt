@@ -1,0 +1,6 @@
+D:\Important Files and Folders\BPB\Chapters\Chapter 13\Code\Chapter_13\Chapter_13\bin\Debug\Chapter_13.exe.config
+D:\Important Files and Folders\BPB\Chapters\Chapter 13\Code\Chapter_13\Chapter_13\bin\Debug\Chapter_13.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 13\Code\Chapter_13\Chapter_13\bin\Debug\Chapter_13.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 13\Code\Chapter_13\Chapter_13\obj\Debug\Chapter_13.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 13\Code\Chapter_13\Chapter_13\obj\Debug\Chapter_13.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 13\Code\Chapter_13\Chapter_13\obj\Debug\Chapter_13.pdb

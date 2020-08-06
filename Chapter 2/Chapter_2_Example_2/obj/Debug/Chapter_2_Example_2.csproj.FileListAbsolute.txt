@@ -1,0 +1,6 @@
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_Example_2\bin\Debug\Chapter_2_Example_2.exe.config
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_Example_2\bin\Debug\Chapter_2_Example_2.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_Example_2\bin\Debug\Chapter_2_Example_2.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_Example_2\obj\Debug\Chapter_2_Example_2.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_Example_2\obj\Debug\Chapter_2_Example_2.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_Example_2\obj\Debug\Chapter_2_Example_2.pdb

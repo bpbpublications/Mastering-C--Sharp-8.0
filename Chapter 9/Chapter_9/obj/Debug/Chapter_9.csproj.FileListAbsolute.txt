@@ -1,0 +1,13 @@
+C:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\bin\Debug\Chapter_9.exe.config
+C:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\bin\Debug\Chapter_9.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\bin\Debug\Chapter_9.pdb
+C:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\obj\Debug\Chapter_9.csprojAssemblyReference.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\obj\Debug\Chapter_9.csproj.CoreCompileInputs.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\obj\Debug\Chapter_9.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\obj\Debug\Chapter_9.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\bin\Debug\Chapter_9.exe.config
+D:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\bin\Debug\Chapter_9.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\bin\Debug\Chapter_9.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\obj\Debug\Chapter_9.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\obj\Debug\Chapter_9.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 9\Code\Chapter_9\Chapter_9\obj\Debug\Chapter_9.pdb

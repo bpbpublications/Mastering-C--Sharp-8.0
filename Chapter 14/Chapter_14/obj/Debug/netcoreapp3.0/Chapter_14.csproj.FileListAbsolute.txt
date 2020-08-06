@@ -1,0 +1,12 @@
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\bin\Debug\netcoreapp3.0\Chapter_14.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\bin\Debug\netcoreapp3.0\Chapter_14.deps.json
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\bin\Debug\netcoreapp3.0\Chapter_14.runtimeconfig.json
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\bin\Debug\netcoreapp3.0\Chapter_14.runtimeconfig.dev.json
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\bin\Debug\netcoreapp3.0\Chapter_14.dll
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\bin\Debug\netcoreapp3.0\Chapter_14.pdb
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\obj\Debug\netcoreapp3.0\Chapter_14.csprojAssemblyReference.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\obj\Debug\netcoreapp3.0\Chapter_14.csproj.CoreCompileInputs.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\obj\Debug\netcoreapp3.0\Chapter_14.AssemblyInfoInputs.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\obj\Debug\netcoreapp3.0\Chapter_14.AssemblyInfo.cs
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\obj\Debug\netcoreapp3.0\Chapter_14.dll
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14\obj\Debug\netcoreapp3.0\Chapter_14.pdb

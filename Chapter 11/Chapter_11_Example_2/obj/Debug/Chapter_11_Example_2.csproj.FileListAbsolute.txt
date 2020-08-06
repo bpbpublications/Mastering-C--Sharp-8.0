@@ -1,0 +1,7 @@
+D:\Important Files and Folders\BPB\Chapters\Chapter 11\Code\Chapter_11\Chapter_11_Example_2\bin\Debug\Chapter_11_Example_2.exe.config
+D:\Important Files and Folders\BPB\Chapters\Chapter 11\Code\Chapter_11\Chapter_11_Example_2\bin\Debug\Chapter_11_Example_2.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 11\Code\Chapter_11\Chapter_11_Example_2\bin\Debug\Chapter_11_Example_2.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 11\Code\Chapter_11\Chapter_11_Example_2\obj\Debug\Chapter_11_Example_2.csprojAssemblyReference.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 11\Code\Chapter_11\Chapter_11_Example_2\obj\Debug\Chapter_11_Example_2.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 11\Code\Chapter_11\Chapter_11_Example_2\obj\Debug\Chapter_11_Example_2.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 11\Code\Chapter_11\Chapter_11_Example_2\obj\Debug\Chapter_11_Example_2.pdb

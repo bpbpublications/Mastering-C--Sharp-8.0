@@ -1,0 +1,7 @@
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6_Example_1\bin\Debug\Chapter_6_Example_1.exe.config
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6_Example_1\bin\Debug\Chapter_6_Example_1.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6_Example_1\bin\Debug\Chapter_6_Example_1.pdb
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6_Example_1\obj\Debug\Chapter_6_Example_1.csprojAssemblyReference.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6_Example_1\obj\Debug\Chapter_6_Example_1.csproj.CoreCompileInputs.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6_Example_1\obj\Debug\Chapter_6_Example_1.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6_Example_1\obj\Debug\Chapter_6_Example_1.pdb

@@ -1,0 +1,12 @@
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\obj\Debug\netcoreapp3.0\Chapter_14_Example_1.csprojAssemblyReference.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\obj\Debug\netcoreapp3.0\Chapter_14_Example_1.csproj.CoreCompileInputs.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\obj\Debug\netcoreapp3.0\Chapter_14_Example_1.AssemblyInfoInputs.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\obj\Debug\netcoreapp3.0\Chapter_14_Example_1.AssemblyInfo.cs
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\bin\Debug\netcoreapp3.0\Chapter_14_Example_1.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\bin\Debug\netcoreapp3.0\Chapter_14_Example_1.deps.json
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\bin\Debug\netcoreapp3.0\Chapter_14_Example_1.runtimeconfig.json
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\bin\Debug\netcoreapp3.0\Chapter_14_Example_1.runtimeconfig.dev.json
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\bin\Debug\netcoreapp3.0\Chapter_14_Example_1.dll
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\bin\Debug\netcoreapp3.0\Chapter_14_Example_1.pdb
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\obj\Debug\netcoreapp3.0\Chapter_14_Example_1.dll
+C:\Important Files and Folders\BPB\Chapters\Chapter 14\Code\Chapter_14\Chapter_14_Example_1\obj\Debug\netcoreapp3.0\Chapter_14_Example_1.pdb

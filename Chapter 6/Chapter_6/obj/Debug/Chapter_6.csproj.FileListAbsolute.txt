@@ -1,0 +1,6 @@
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6\bin\Debug\Chapter_6.exe.config
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6\bin\Debug\Chapter_6.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6\bin\Debug\Chapter_6.pdb
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6\obj\Debug\Chapter_6.csproj.CoreCompileInputs.cache
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6\obj\Debug\Chapter_6.exe
+C:\Important Files and Folders\BPB\Chapters\Chapter 6\Code\Chapter_6\obj\Debug\Chapter_6.pdb

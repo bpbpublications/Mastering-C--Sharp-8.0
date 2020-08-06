@@ -1,0 +1,7 @@
+D:\Important Files and Folders\BPB\Chapters\Chapter 8\Code\Chapter_8\Chapter_8\bin\Debug\Chapter_8.exe.config
+D:\Important Files and Folders\BPB\Chapters\Chapter 8\Code\Chapter_8\Chapter_8\bin\Debug\Chapter_8.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 8\Code\Chapter_8\Chapter_8\bin\Debug\Chapter_8.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 8\Code\Chapter_8\Chapter_8\obj\Debug\Chapter_8.csprojAssemblyReference.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 8\Code\Chapter_8\Chapter_8\obj\Debug\Chapter_8.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 8\Code\Chapter_8\Chapter_8\obj\Debug\Chapter_8.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 8\Code\Chapter_8\Chapter_8\obj\Debug\Chapter_8.pdb

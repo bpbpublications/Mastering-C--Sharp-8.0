@@ -1,0 +1,7 @@
+D:\Important Files and Folders\BPB\Chapters\Chapter 15\Code\Chapter 15\Chapter 15\bin\Debug\Chapter 15.exe.config
+D:\Important Files and Folders\BPB\Chapters\Chapter 15\Code\Chapter 15\Chapter 15\bin\Debug\Chapter 15.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 15\Code\Chapter 15\Chapter 15\bin\Debug\Chapter 15.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 15\Code\Chapter 15\Chapter 15\obj\Debug\Chapter 15.csprojAssemblyReference.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 15\Code\Chapter 15\Chapter 15\obj\Debug\Chapter 15.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 15\Code\Chapter 15\Chapter 15\obj\Debug\Chapter 15.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 15\Code\Chapter 15\Chapter 15\obj\Debug\Chapter 15.pdb

@@ -1,0 +1,13 @@
+D:\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\bin\Debug\Chapter_3.exe.config
+D:\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\bin\Debug\Chapter_3.exe
+D:\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\bin\Debug\Chapter_3.pdb
+D:\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\obj\Debug\Chapter_3.csproj.CoreCompileInputs.cache
+D:\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\obj\Debug\Chapter_3.exe
+D:\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\obj\Debug\Chapter_3.pdb
+D:\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\obj\Debug\Chapter_3.csprojAssemblyReference.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\bin\Debug\Chapter_3.exe.config
+D:\Important Files and Folders\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\bin\Debug\Chapter_3.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\bin\Debug\Chapter_3.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\obj\Debug\Chapter_3.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\obj\Debug\Chapter_3.exe
+D:\Important Files and Folders\BPB\Chapters\Chapter 3\Code\Chapter_3\Chapter_3\obj\Debug\Chapter_3.pdb

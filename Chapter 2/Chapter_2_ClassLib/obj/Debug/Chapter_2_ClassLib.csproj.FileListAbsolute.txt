@@ -1,0 +1,5 @@
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_ClassLib\bin\Debug\Chapter_2_ClassLib.dll
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_ClassLib\bin\Debug\Chapter_2_ClassLib.pdb
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_ClassLib\obj\Debug\Chapter_2_ClassLib.csproj.CoreCompileInputs.cache
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_ClassLib\obj\Debug\Chapter_2_ClassLib.dll
+D:\Important Files and Folders\BPB\Chapters\Chapter 2\Code\Chapter_2\Chapter_2_ClassLib\obj\Debug\Chapter_2_ClassLib.pdb
